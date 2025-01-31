@@ -4,7 +4,7 @@ This Python script will validate GDScript files in your project. It can be a ver
 
 ## Limitations
 
-- This is not compatible with autoloads, because Godot doesn't load them when checking scripts.
+- This is not compatible with autoloads, since Godot doesn't load them when checking scripts.
 
 ## Usage
 
